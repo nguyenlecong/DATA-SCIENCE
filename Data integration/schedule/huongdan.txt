@@ -1,0 +1,6 @@
+Windows + R
+shell:startup
+đặt file 'schedule.bat' vào thư mục
+
+bỏ 'not' ở dòng 26
+bỏ comment dòng 7, comment dòng 9->12
